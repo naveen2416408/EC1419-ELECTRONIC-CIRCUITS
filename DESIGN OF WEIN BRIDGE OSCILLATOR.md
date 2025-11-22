@@ -12,14 +12,11 @@
 <img width="702" height="320" alt="image" src="https://github.com/user-attachments/assets/0f85c1c7-9640-4713-bf04-81a7f128842f" />
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
-
-## Tabulation
-
 ## Graph
+<img width="1280" height="322" alt="image" src="https://github.com/user-attachments/assets/894366df-8ddc-41f8-b6db-271f6bb5219b" />
 
-<img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
+![WhatsApp Image 2025-11-22 at 20 54 54_dd71d667](https://github.com/user-attachments/assets/b9b389f0-17ff-4d53-b04e-c8316d8c3429)
 
-Practical frequency of Oscillation =
+Practical frequency of Oscillation = 150Hz
 
-
-Theoritical Frequency of Oscillation =
+Theoritical Frequency of Oscillation =159Hz
